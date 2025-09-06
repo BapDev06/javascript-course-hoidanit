@@ -1,4 +1,5 @@
 
+
 //number
 const myAge = 25; 
 const myScore = 9.1; 
